@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+
 import CartWidget from './CartWidget';
 
 
@@ -17,7 +18,7 @@ function NavBar() {
             <Nav.Link href="#faq">FAQ</Nav.Link>
             <Nav.Link href="#contacto">Contacto</Nav.Link>
             <Nav.Link href="#usuario">Mi cuenta</Nav.Link>
-            <Nav.Link href="#carrito">Carrito<CartWidget/>2</Nav.Link>
+            <Nav.Link href="#carrito"><CartWidget/>2</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
