@@ -19,3 +19,10 @@ h2{
     font-size: 40px;
     font-family: 'Gill Sans';
 }
+
+h3{
+    color:rgb(49, 47, 47);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+}

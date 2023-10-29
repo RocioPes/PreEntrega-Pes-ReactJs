@@ -7,8 +7,8 @@ function App () {
     <>
     <NavBar/>
      <h1>Natural Nomad</h1>
-     <h2>Agencia de viajes</h2>
-<ItemListContainer greeting ="Destinos"/>
+     <h2>Agencia de viajes</h2><ItemListContainer greeting ="Destinos"/>
+
 
 
     </>)}
