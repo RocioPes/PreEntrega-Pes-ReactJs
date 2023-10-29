@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(247, 247, 247);
+   
+   
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans';
+    
+    
+}
+h2{
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gill Sans';
+}
